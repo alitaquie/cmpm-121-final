@@ -4,11 +4,11 @@
 
 
 ## Introducing the team
-Tools Lead (Jayden Chung): This person will research alternative tools, identify good ones, and help every other team member set them up on their own machine in the best configuration for your project. 
-Format Lead (Ali Taquie): Establish team’s coding style guidelines and help peers setup auto-formatting systems. Provide support for systems like source control and automated deployment.
-Engine Lead (Vincent Fu): This person will research alternative engines, get buy-in from teammates on the choice, and teach peers how to use it if it is new to them. This might involve making small code examples outside of the main game project to teach others. 
-Assistant Engine Lead (Jacky Ho): The Engine Lead should also establish standards for which kinds of code should be organized into which folders of the project. They should try to propose software designs that insulate the rest of the team from many details of the underlying engine.
-Design Lead (Antonio Pereda): This person will be responsible for setting the creative direction of the project, and establishing the look and feel of the game. They might make small art or code samples for others to help them contribute and maintain game content. Where the project might involve a domain-specific language, the Design Lead (who is still an engineer in this class) will lead the discussion as to what primitive elements the language needs to provide.
+- Tools Lead (Jayden Chung): This person will research alternative tools, identify good ones, and help every other team member set them up on their own machine in the best configuration for your project. 
+- Format Lead (Ali Taquie): Establish team’s coding style guidelines and help peers setup auto-formatting systems. Provide support for systems like source control and automated deployment.
+- Engine Lead (Vincent Fu): This person will research alternative engines, get buy-in from teammates on the choice, and teach peers how to use it if it is new to them. This might involve making small code examples outside of the main game project to teach others. 
+- Assistant Engine Lead (Jacky Ho): The Engine Lead should also establish standards for which kinds of code should be organized into which folders of the project. They should try to propose software designs that insulate the rest of the team from many details of the underlying engine.
+- Design Lead (Antonio Pereda): This person will be responsible for setting the creative direction of the project, and establishing the look and feel of the game. They might make small art or code samples for others to help them contribute and maintain game content. Where the project might involve a domain-specific language, the Design Lead (who is still an engineer in this class) will lead the discussion as to what primitive elements the language needs to provide.
 
 
 
